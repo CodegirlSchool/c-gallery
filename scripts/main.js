@@ -68,7 +68,7 @@ publishButton.addEventListener('click', () => {
     method: 'POST',
     body: formData,
     headers: {
-      Authorization: 'Bearerconst AUTH_TOKEN = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjc1NjgxNDg4LCJpYXQiOjE2NzA4NDMwODgsImp0aSI6ImQ4OTZlMGI3OGU5MDQ3NWRhZDRhZTI3MWUwYzdiY2FjIiwidXNlcl9pZCI6MjN9.KrsnNhRIOHdKTqm3Pr_eZUJRT4zwkfCTrdQFsVJa1Gg'
+      Authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjc2MzIxNTU0LCJpYXQiOjE2NzE0ODMxNTQsImp0aSI6ImZiNTlmMGE0YTgyMDRkMjNiMGQ3YWE0MTA5YmIzZDY2IiwidXNlcl9pZCI6MzB9.4mRe6i_DxZLZtpdJfNsn7oR7HeMQYkXf2ucU9mDIRNE'
     },
   })
 
